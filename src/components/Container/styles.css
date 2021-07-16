@@ -1,0 +1,30 @@
+.row{    
+    display: flex;
+    text-align: left;    
+}
+
+.title{
+    color: #7c7c7c;
+    font-size: 12px;
+    padding: 10px 0;    
+}
+
+.conteudo{
+    font-size: 18px;
+    color: #000;
+    width: 400px;
+    padding: 10px 0;    
+}
+
+.preco{
+    text-align: right;
+}
+
+.soma{
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+.conteudo {
+    border-bottom: 1px dashed #7c7c7c;
+}
